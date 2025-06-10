@@ -6,6 +6,7 @@ export default defineNuxtConfig({
     devtools: { enabled: true },
     css: ["~/assets/css/main.css"],
     app: {
+        baseURL: '/startup/', // ЗАМЕНИТЬ на свой repo name!
         head: {
             title: "Senagat StartUp",
             meta: [
@@ -24,6 +25,9 @@ export default defineNuxtConfig({
             ],
             htmlAttrs: { "data-theme": "light" },
         },
+    },
+    nitro: {
+        preset: 'github_pages',
     },
     modules: [
         "@nuxt/eslint",

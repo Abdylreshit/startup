@@ -6,7 +6,7 @@ export default defineNuxtConfig({
     devtools: { enabled: true },
     css: ["~/assets/css/main.css"],
     app: {
-        baseURL: '/startup/', // ЗАМЕНИТЬ на свой repo name!
+        baseURL: process.env.NUXT_APP_BASE_URL || '/',
         head: {
             title: "Senagat StartUp",
             meta: [

@@ -1,5 +1,6 @@
 import type { IUser } from "~/types/IUser";
 import type { IAuthMe } from "~/types/endpoint/IAuthMe";
+import { defineStore } from "pinia";
 
 export const useAuthStore = defineStore("auth", {
     state: () => ({

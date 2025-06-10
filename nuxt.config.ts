@@ -6,7 +6,6 @@ export default defineNuxtConfig({
     devtools: { enabled: true },
     css: ["~/assets/css/main.css"],
     app: {
-        baseURL: '/my-repo/',  // путь совпадает с именем репозитория
         head: {
             title: "Senagat StartUp",
             meta: [

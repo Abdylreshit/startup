@@ -1,10 +1,11 @@
 <script setup lang="ts">
 const localePath = useLocalePath();
 
-if (import.meta.client) {
+onMounted(() => {
     navigateTo(localePath("home"));
-}
+});
 </script>
+
 <template>
     <div />
 </template>

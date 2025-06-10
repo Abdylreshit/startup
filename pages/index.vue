@@ -87,43 +87,43 @@ const items = [
 
 const partners = [
     {
-        src: "/images/partners/1.png",
+        src: "/startup/images/partners/1.png",
         alt: "TG we BM",
     },
     {
-        src: "/images/partners/2.png",
+        src: "/startup/images/partners/2.png",
         alt: "Türkmenistanyň Senagat we Gurluşyk Uniwersiteti",
     },
     {
-        src: "/images/partners/3.png",
+        src: "/startup/images/partners/3.png",
         alt: "Türkmengaz",
     },
     {
-        src: "/images/partners/4.png",
+        src: "/startup/images/partners/4.png",
         alt: "Aşgabat Geňeşlik Lyk Alym merkezi",
     },
     {
-        src: "/images/partners/5.png",
+        src: "/startup/images/partners/5.png",
         alt: "Министерство Малык Маглымат",
     },
     {
-        src: "/images/partners/6.png",
+        src: "/startup/images/partners/6.png",
         alt: "GAP İnşaat",
     },
     {
-        src: "/images/partners/7.png",
+        src: "/startup/images/partners/7.png",
         alt: "Petronas",
     },
     {
-        src: "/images/partners/8.png",
+        src: "/startup/images/partners/8.png",
         alt: "Dragon Oil",
     },
     {
-        src: "/images/partners/9.png",
+        src: "/startup/images/partners/9.png",
         alt: "Rönesans Holding",
     },
     {
-        src: "/images/partners/10.png",
+        src: "/startup/images/partners/10.png",
         alt: "Çalık Holding",
     },
 ];

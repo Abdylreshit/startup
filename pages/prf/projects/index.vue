@@ -5,7 +5,7 @@ import { ref, computed } from "vue";
 const projects = ref([
     {
         id: 1,
-        image: "/images/project1.webp",
+        image: "/startup/images/project1.webp",
         title: "Türkmen döwlet binagärlik-gurluşyk institutynyň täze binasynyň taslamasy",
         excerpt:
             "Türkmen döwlet binagärlik-gurluşyk institutynyň täze binasy häzirki zaman binagärlik ýörelgelerine we innowasion tehnologiýalara esaslanýar.",
@@ -16,7 +16,7 @@ const projects = ref([
     },
     {
         id: 2,
-        image: "/images/project1.webp",
+        image: "/startup/images/project1.webp",
         title: "Täze binanyň energetika derňew taslamasy",
         excerpt:
             "Bu taslama binanyň energiýa sarp edilişini optimizirlemek we innowasion güneş paneli ulgamlaryny ornaşdyrmak üçin işlenip düzüldi.",
@@ -27,7 +27,7 @@ const projects = ref([
     },
     {
         id: 3,
-        image: "/images/project1.webp",
+        image: "/startup/images/project1.webp",
         title: "Oba hojalyk üçin akylly suwaryş ulgamy",
         excerpt:
             "Akylly sensörler we awtomatiki suwaryş sapaklary, ekinleriň üstünde real-waqt maglumat toplap, suwy tygşytlamaga kömek edýär.",
@@ -39,7 +39,7 @@ const projects = ref([
 
     {
         id: 4,
-        image: "/images/project1.webp",
+        image: "/startup/images/project1.webp",
         title: "Sanly platforma arkaly işewürlik hyzmatdaşlygy",
         excerpt:
             "Bu taslama, işewürler üçin sanly platforma döredip, hyzmatdaşlygy we maglumat alyş-çalyşyny ýeňilleşdirýär.",
@@ -51,7 +51,7 @@ const projects = ref([
 
     {
         id: 5,
-        image: "/images/project1.webp",
+        image: "/startup/images/project1.webp",
         title: "Energiýa tygşytlaýjy bina taslamasy",
         excerpt:
             "Bu taslama, binanyň energiýa sarp edilişini azaltmak üçin innowasion izolýasiýa we energiýa tygşytlaýjy tehnologiýalary ulanýar.",
@@ -63,7 +63,7 @@ const projects = ref([
 
     {
         id: 6,
-        image: "/images/project1.webp",
+        image: "/startup/images/project1.webp",
         title: "Akylly şäher taslamasy",
         excerpt:
             "Bu taslama, şäheriň infrastrukturasy üçin akylly tehnologiýalary ulanmak arkaly ýaşaýyş hilini ýokarlandyrmagy maksat edinýär.",
@@ -75,7 +75,7 @@ const projects = ref([
 
     {
         id: 7,
-        image: "/images/project1.webp",
+        image: "/startup/images/project1.webp",
         title: "Eko-ýaşyl meýdança taslamasy",
         excerpt:
             "Bu taslama, şäherde ýaşyl meýdançalary we ekologiýa taýdan arassa ýerleri döretmek arkaly ekologiýa taýdan arassa ýaşaýyş gurmagy maksat edinýär.",
@@ -87,7 +87,7 @@ const projects = ref([
 
     {
         id: 8,
-        image: "/images/project1.webp",
+        image: "/startup/images/project1.webp",
         title: "Akylly ulag ulgamy taslamasy",
         excerpt:
             "Bu taslama, şäherde ulag akymyny dolandyrmak we howpsuzlygy ýokarlandyrmak üçin akylly ulag ulgamlaryny ulanmagy maksat edinýär.",
@@ -99,7 +99,7 @@ const projects = ref([
 
     {
         id: 9,
-        image: "/images/project1.webp",
+        image: "/startup/images/project1.webp",
         title: "Akylly öý taslamasy",
         excerpt:
             "Bu taslama, öýüň içindäki akylly tehnologiýalary ulanmak arkaly ýaşaýyş hilini ýokarlandyrmagy maksat edinýär.",
@@ -111,7 +111,7 @@ const projects = ref([
 
     {
         id: 10,
-        image: "/images/project1.webp",
+        image: "/startup/images/project1.webp",
         title: "Akylly saglyk merkezi taslamasy",
         excerpt:
             "Bu taslama, saglyk hyzmatlaryny gowulandyrmak we maglumat alyş-çalyşyny ýeňilleşdirmek üçin akylly saglyk merkezini döretmegi maksat edinýär.",

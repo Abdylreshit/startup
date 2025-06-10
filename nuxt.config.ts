@@ -7,6 +7,7 @@ export default defineNuxtConfig({
     css: ["~/assets/css/main.css"],
     app: {
         baseURL: "/startup/",
+        buildAssetsDir: "/startup/_nuxt/",
         head: {
             title: "Senagat StartUp",
             meta: [

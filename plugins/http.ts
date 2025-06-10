@@ -1,7 +1,6 @@
 import type { $Fetch, NitroFetchRequest } from "nitropack";
 import { useAuthStore } from "@/stores/auth";
 import type { FetchError } from "ofetch";
-import { useLocalePath } from "#imports";
 
 class HttpService {
     private http: $Fetch<unknown, NitroFetchRequest>;

@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import { ref, computed, onBeforeMount, onMounted } from "vue";
-import { useLocalePath } from "#imports";
 import ContactForm from "~/components/app/ContactForm.vue";
 import MainCard from "~/components/app/MainCard.vue";
 

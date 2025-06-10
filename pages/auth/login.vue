@@ -1,7 +1,6 @@
 <script setup lang="ts">
 import * as z from "zod";
 import type { FormSubmitEvent } from "@nuxt/ui";
-import { useLocalePath } from "#imports";
 import type { ILogin } from "~/types/endpoint/ILogin";
 
 const { $toast, $http } = useNuxtApp();

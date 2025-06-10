@@ -25,12 +25,6 @@ export default defineNuxtConfig({
             htmlAttrs: { "data-theme": "light" },
         },
     },
-    nitro: {
-        prerender: {
-            crawlLinks: false,     // не перебираем ссылки автоматически
-            routes: ['/', '/404']  // только корень и 404-ю
-        }
-    },
     modules: [
         "@nuxt/eslint",
         "@nuxt/icon",

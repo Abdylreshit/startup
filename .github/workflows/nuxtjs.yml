@@ -32,7 +32,6 @@ jobs:
 
       - name: Build Nuxt app
         run: |
-          export NUXT_APP_BASE_URL="startup" # 👈 сюда подставь своё название репозитория !!!
           yarn generate
 
       - name: Upload build artifact

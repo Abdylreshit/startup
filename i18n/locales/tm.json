@@ -1,0 +1,116 @@
+{
+    "welcome": "Hoş geldiniz biziň programmamyza!",
+    "zodI18n": {
+        "errors": {
+            "custom": "Nädogry girizme",
+            "invalid_arguments": "Nädogry funksiýa argumentleri",
+            "invalid_date": "Nädogry sene",
+            "invalid_enum_value": "Nädogry sanaw gymmaty. Garaşylýan: {options}, alnan: '{received}'",
+            "invalid_intersection_types": "Kesip geçiş netijeleri birleşdirilip bilinmedi",
+            "invalid_literal": "Nädogry göni baha, garaşylýan: {expected}",
+            "invalid_return_type": "Nädogry funksiýa gaýtaryş görnüşi",
+            "invalid_string": {
+                "cuid": "Nädogry {validation}",
+                "datetime": "Nädogry {validation}",
+                "email": "Nädogry {validation}",
+                "endsWith": "Nädogry girizme: \"{endsWith}\" bilen gutarmaly",
+                "regex": "Nädogry",
+                "startsWith": "Nädogry girizme: \"{startsWith}\" bilen başlamaly",
+                "url": "Nädogry {validation}",
+                "uuid": "Nädogry {validation}"
+            },
+            "invalid_type": "Garaşylýan: {expected}, alnan: {received}",
+            "invalid_type_received_undefined": "Gerekli",
+            "invalid_union": "Nädogry girizme",
+            "invalid_union_discriminator": "Nädogry tapawutlandyryjy baha. Garaşylýan: {options}",
+            "not_finite": "San çäksiz bolmaly däl",
+            "not_multiple_of": "San {multipleOf} bölünýän bolmaly",
+            "required": "Gerekli",
+            "too_big": {
+                "array": {
+                    "exact": "Sanaw takyk {maximum} element(s) bolmaly",
+                    "inclusive": "Sanaw iň köp {maximum} element(s) bolmaly",
+                    "not_inclusive": "Sanaw {maximum} element(s)-den az bolmaly"
+                },
+                "date": {
+                    "exact": "Sene takyk {maximum} bolmaly",
+                    "inclusive": "Sene {maximum} ýa-da kiçi bolmaly",
+                    "not_inclusive": "Sene {maximum}-den kiçi bolmaly"
+                },
+                "number": {
+                    "exact": "San takyk {maximum} bolmaly",
+                    "inclusive": "San {maximum} ýa-da az bolmaly",
+                    "not_inclusive": "San {maximum}-den kiçi bolmaly"
+                },
+                "set": {
+                    "exact": "Nädogry girizme",
+                    "inclusive": "Nädogry girizme",
+                    "not_inclusive": "Nädogry girizme"
+                },
+                "string": {
+                    "exact": "Setir takyk {maximum} harp bolmaly",
+                    "inclusive": "Setir iň köp {maximum} harp bolmaly",
+                    "not_inclusive": "Setir {maximum}-den az harp bolmaly"
+                }
+            },
+            "too_small": {
+                "array": {
+                    "exact": "Sanaw takyk {minimum} element(s) bolmaly",
+                    "inclusive": "Sanaw iň azyndan {minimum} element(s) bolmaly",
+                    "not_inclusive": "Sanaw {minimum}-den köp element(s) bolmaly"
+                },
+                "date": {
+                    "exact": "Sene takyk {minimum} bolmaly",
+                    "inclusive": "Sene {minimum} ýa-da uly bolmaly",
+                    "not_inclusive": "Sene {minimum}-den uly bolmaly"
+                },
+                "number": {
+                    "exact": "San takyk {minimum} bolmaly",
+                    "inclusive": "San {minimum} ýa-da uly bolmaly",
+                    "not_inclusive": "San {minimum}-den uly bolmaly"
+                },
+                "set": {
+                    "exact": "Nädogry girizme",
+                    "inclusive": "Nädogry girizme",
+                    "not_inclusive": "Nädogry girizme"
+                },
+                "string": {
+                    "exact": "Setir takyk {minimum} harp bolmaly",
+                    "inclusive": "Setir iň azyndan {minimum} harp bolmaly",
+                    "not_inclusive": "Setir {minimum}-den köp harp bolmaly"
+                }
+            },
+            "unrecognized_keys": "Obýektdäki tanalmaýan açarlar: {keys}"
+        },
+        "types": {
+            "array": "sanaw",
+            "bigint": "uly san",
+            "boolean": "boolean",
+            "date": "sene",
+            "float": "ýüze çykýan san",
+            "function": "funksiýa",
+            "integer": "bitin san",
+            "map": "kart",
+            "nan": "nan",
+            "never": "hiç haçan",
+            "null": "null",
+            "number": "san",
+            "object": "obýekt",
+            "promise": "promise",
+            "set": "toplum",
+            "string": "setir",
+            "symbol": "nyşan",
+            "undefined": "kesgitlenmedik",
+            "unknown": "näbelli",
+            "void": "boş"
+        },
+        "validations": {
+            "cuid": "cuid",
+            "datetime": "Sene we wagty",
+            "email": "email",
+            "regex": "regex",
+            "url": "url",
+            "uuid": "uuid"
+        }
+    }
+}

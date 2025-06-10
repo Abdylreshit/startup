@@ -63,7 +63,7 @@ export default defineNuxtConfig({
         serverBundle: {
             collections: ["lucide", "flag"],
         },
-        provider: "server",
+        provider: "inline",
         customCollections: [
             {
                 prefix: "main",

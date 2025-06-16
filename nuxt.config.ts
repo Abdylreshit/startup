@@ -6,8 +6,8 @@ export default defineNuxtConfig({
     devtools: { enabled: true },
     css: ["~/assets/css/main.css"],
     app: {
-        baseURL: "/startup/",
-        buildAssetsDir: "/startup/_nuxt/",
+        baseURL: "/",
+        buildAssetsDir: "/_nuxt/",
         head: {
             title: "Senagat StartUp",
             meta: [
@@ -27,9 +27,7 @@ export default defineNuxtConfig({
             htmlAttrs: { "data-theme": "light" },
         },
     },
-    nitro: {
-        preset: "github_pages",
-    },
+    nitro: {},
     modules: [
         "@nuxt/eslint",
         "@nuxt/icon",

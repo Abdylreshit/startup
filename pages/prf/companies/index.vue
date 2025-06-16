@@ -5,7 +5,7 @@ import { ref } from "vue";
 const companies = ref([
     {
         id: 1,
-        image: "/startup/images/taze-ay.png",
+        image: "/images/taze-ay.png",
         title: "Täze Aý",
         excerpt: "“Täze Aý” şöhýetli et we konditer önümleriniň iri önümçiligi…",
         type: "Edara",
@@ -16,7 +16,7 @@ const companies = ref([
     },
     {
         id: 2,
-        image: "/startup/images/begler-yoly.png",
+        image: "/images/begler-yoly.png",
         title: "Begler Ýoly",
         excerpt: "“Begler Ýoly” hususy kärhana plastik gaplar we…",
         type: "Edara",

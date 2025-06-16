@@ -4,7 +4,7 @@ import { ref, computed } from "vue";
 const projects = ref([
     {
         id: 1,
-        image: "/startup/images/course1.webp",
+        image: "/images/course1.webp",
         title: "Programma üpjünçiligini dizaýn etmek we arhitekturalaşdyrmak",
         excerpt:
             "Bu ýöriteleşme, çeýe we ölçegärlikli programmalary döretmek üçin iň gowy tejribeleri öwredýär.",
@@ -16,7 +16,7 @@ const projects = ref([
     },
     {
         id: 2,
-        image: "/startup/images/course1.webp",
+        image: "/images/course1.webp",
         title: "Programma üpjünçiligini dizaýn etmek we arhitekturalaşdyrmak",
         excerpt:
             "Bu ýöriteleşme, çeýe we ölçegärlikli programmalary döretmek üçin iň gowy tejribeleri öwredýär.",

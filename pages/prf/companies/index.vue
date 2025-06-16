@@ -79,7 +79,7 @@ function save() {
                         :src="c.image"
                         alt=""
                         class="h-28 w-full rounded-md bg-gray-100 object-cover"
-                    />
+                    >
                 </div>
                 <div class="col-span-12 md:col-span-5 lg:col-span-6">
                     <h3 class="text-lg font-semibold">{{ c.title }}</h3>

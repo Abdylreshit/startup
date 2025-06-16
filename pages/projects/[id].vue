@@ -20,7 +20,7 @@
                             src="/images/project1.webp"
                             alt="Taslama lead"
                             class="w-full rounded-xl object-cover"
-                        />
+                        >
 
                         <!-- Заголовок + мета -->
                         <div>
@@ -86,7 +86,7 @@
                                 src="/images/project2.webp"
                                 alt="Taslama detail"
                                 class="mt-6 w-full rounded-xl object-cover"
-                            />
+                            >
                             <p class="py-2 font-bold">
                                 Innowasion tehnologiýalar we ekologiýa taýdan durnuklylyk
                             </p>

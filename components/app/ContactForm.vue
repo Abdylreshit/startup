@@ -31,7 +31,7 @@
                                 type="text"
                                 placeholder=""
                                 class="h-10 w-full rounded-md bg-gray-200 px-4 placeholder-gray-500 focus:ring-2 focus:ring-green-600 focus:outline-none"
-                            />
+                            >
                         </div>
                         <!-- Familiýanyňyz -->
                         <div>
@@ -46,7 +46,7 @@
                                 type="text"
                                 placeholder=""
                                 class="h-10 w-full rounded-md bg-gray-200 px-4 placeholder-gray-500 focus:ring-2 focus:ring-green-600 focus:outline-none"
-                            />
+                            >
                         </div>
                         <!-- Telefon Belginiňiz -->
                         <div>
@@ -58,7 +58,7 @@
                                 type="text"
                                 placeholder=""
                                 class="h-10 w-full rounded-md bg-gray-200 px-4 placeholder-gray-500 focus:ring-2 focus:ring-green-600 focus:outline-none"
-                            />
+                            >
                         </div>
                         <!-- E-mail poçtaňyz -->
                         <div>
@@ -70,7 +70,7 @@
                                 type="email"
                                 placeholder=""
                                 class="h-10 w-full rounded-md bg-gray-200 px-4 placeholder-gray-500 focus:ring-2 focus:ring-green-600 focus:outline-none"
-                            />
+                            >
                         </div>
                     </div>
                 </div>

@@ -194,7 +194,7 @@ function save() {
                                     type="text"
                                     placeholder="Ady"
                                     class="h-10 w-full rounded-md bg-gray-200 px-4 placeholder-gray-500 focus:ring-2 focus:ring-green-600 focus:outline-none"
-                                />
+                                >
                             </div>
 
                             <div>
@@ -254,7 +254,7 @@ function save() {
                                     type="file"
                                     class="block w-full rounded-md bg-gray-200 px-4 py-2 text-sm text-gray-500 focus:ring-2 focus:ring-green-600 focus:outline-none"
                                     @change="onFileChange"
-                                />
+                                >
                             </div>
                         </div>
                     </form>
@@ -277,7 +277,7 @@ function save() {
             >
                 <!-- Изображение -->
                 <div class="col-span-12 sm:col-span-4 md:col-span-3">
-                    <img :src="proj.image" alt="" class="h-28 w-full rounded-md object-cover" />
+                    <img :src="proj.image" alt="" class="h-28 w-full rounded-md object-cover" >
                 </div>
 
                 <!-- Название и отрывок -->

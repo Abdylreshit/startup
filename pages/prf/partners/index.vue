@@ -54,7 +54,7 @@ function removeProject(id: number) {
             >
                 <!-- Изображение -->
                 <div class="col-span-12 sm:col-span-4 md:col-span-3">
-                    <img :src="proj.image" alt="" class="h-28 w-full rounded-md object-cover" />
+                    <img :src="proj.image" alt="" class="h-28 w-full rounded-md object-cover" >
                 </div>
 
                 <!-- Название и отрывок -->

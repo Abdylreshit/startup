@@ -79,7 +79,7 @@ onMounted(() => {});
             :to="localePath('home')"
             class="hidden items-center space-x-2 text-2xl font-semibold md:flex"
         >
-            <img src="/images/logo.png" alt="Logo" class="w-[100px]"/>
+            <img src="/images/logo.png" alt="Logo" class="w-[100px]">
         </NuxtLink>
         <UDrawer direction="left">
             <UButton variant="link" class="block cursor-pointer md:hidden">
@@ -87,7 +87,7 @@ onMounted(() => {});
             </UButton>
             <template #title>
                 <NuxtLink :to="localePath('home')">
-                    <img src="/images/logo.png" alt="Logo" class="w-[100px]"/>
+                    <img src="/images/logo.png" alt="Logo" class="w-[100px]">
                 </NuxtLink>
             </template>
             <template #description>
@@ -177,7 +177,7 @@ onMounted(() => {});
             :to="localePath('home')"
             class="flex items-center space-x-2 text-2xl font-semibold md:hidden"
         >
-            <img src="/images/logo.png" alt="Logo" class="w-[100px]"/>
+            <img src="/images/logo.png" alt="Logo" class="w-[100px]">
         </NuxtLink>
 
         <nav class="hidden flex-1 justify-center space-x-8 md:flex">

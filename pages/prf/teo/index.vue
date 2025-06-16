@@ -26,7 +26,7 @@ function removeRequest(id: number) {
         <h2 class="mb-2 text-xl font-semibold text-gray-800">
             TEO Sargytlarynyň sany: <span class="text-green-600">{{ total }}</span>
         </h2>
-        <hr class="mb-6 border-gray-200" />
+        <hr class="mb-6 border-gray-200" >
 
         <!-- Сетка карточек -->
         <div

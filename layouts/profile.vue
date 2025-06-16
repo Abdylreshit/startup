@@ -80,7 +80,7 @@ onMounted(() => {});
                 :to="localePath('home')"
                 class="hidden items-center space-x-2 text-2xl font-semibold md:flex"
             >
-                <img src="/images/logo.png" alt="Logo" class="w-[100px]" />
+                <img src="/images/logo.png" alt="Logo" class="w-[100px]" >
             </NuxtLink>
             <UDrawer direction="left">
                 <UButton variant="link" class="block cursor-pointer md:hidden">
@@ -88,7 +88,7 @@ onMounted(() => {});
                 </UButton>
                 <template #title>
                     <NuxtLink :to="localePath('prf')">
-                        <img src="/images/logo.png" alt="Logo" class="w-[100px]" />
+                        <img src="/images/logo.png" alt="Logo" class="w-[100px]" >
                     </NuxtLink>
                 </template>
                 <template #description>
@@ -147,7 +147,7 @@ onMounted(() => {});
                 :to="localePath('home')"
                 class="flex items-center space-x-2 text-2xl font-semibold md:hidden"
             >
-                <img src="/images/logo.png" alt="Logo" class="w-[100px]" />
+                <img src="/images/logo.png" alt="Logo" class="w-[100px]" >
             </NuxtLink>
 
             <div class="flex items-center gap-[5px] space-x-2 font-semibold">
@@ -202,7 +202,7 @@ onMounted(() => {});
                     <div class="mb-4 px-4 text-lg font-bold text-green-600">Şahsy Otag</div>
 
                     <!-- Разделитель -->
-                    <hr class="mb-6 border-gray-200" />
+                    <hr class="mb-6 border-gray-200" >
 
                     <!-- Меню -->
                     <nav class="flex flex-col space-y-2">

@@ -15,7 +15,7 @@
                             src="/images/course1.webp"
                             alt="Taslama lead"
                             class="w-full rounded-xl object-cover"
-                        />
+                        >
 
                         <!-- Заголовок + мета -->
                         <div>
@@ -56,7 +56,7 @@
                                 src="/images/course3.webp"
                                 alt="Taslama detail"
                                 class="mt-6 mb-6 w-full rounded-xl object-cover"
-                            />
+                            >
                             <p>
                                 Häzirki zaman taslamasy boýunça döredilen “Täze Aý” konditer
                                 fabrikasy ýokary hilli import awtomatiki enjamlar bilen
@@ -117,7 +117,7 @@
             <!-- Сетка карточек -->
             <div class="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-4">
                 <div class="overflow-hidden rounded-lg bg-white shadow">
-                    <img src="/images/oguz-salami.webp" alt="" class="h-48 w-full object-cover" />
+                    <img src="/images/oguz-salami.webp" alt="" class="h-48 w-full object-cover" >
 
                     <div class="p-4">
                         <p class="text-gray-800">
@@ -126,7 +126,7 @@
                     </div>
                 </div>
                 <div class="overflow-hidden rounded-lg bg-white shadow">
-                    <img src="/images/waffle.webp" alt="" class="h-48 w-full object-cover" />
+                    <img src="/images/waffle.webp" alt="" class="h-48 w-full object-cover" >
 
                     <div class="p-4">
                         <p class="text-gray-800">
@@ -135,14 +135,14 @@
                     </div>
                 </div>
                 <div class="overflow-hidden rounded-lg bg-white shadow">
-                    <img src="/images/borek.webp" alt="" class="h-48 w-full object-cover" />
+                    <img src="/images/borek.webp" alt="" class="h-48 w-full object-cover" >
 
                     <div class="p-4">
                         <p class="text-gray-800">Ýarymfabrikat etli, ýeralmaly börek.</p>
                     </div>
                 </div>
                 <div class="overflow-hidden rounded-lg bg-white shadow">
-                    <img src="/images/adalat-salami.webp" alt="" class="h-48 w-full object-cover" />
+                    <img src="/images/adalat-salami.webp" alt="" class="h-48 w-full object-cover" >
 
                     <div class="p-4">
                         <p class="text-gray-800">
@@ -152,7 +152,7 @@
                 </div>
 
                 <div class="overflow-hidden rounded-lg bg-white shadow">
-                    <img src="/images/oguz-salami.webp" alt="" class="h-48 w-full object-cover" />
+                    <img src="/images/oguz-salami.webp" alt="" class="h-48 w-full object-cover" >
 
                     <div class="p-4">
                         <p class="text-gray-800">
@@ -161,7 +161,7 @@
                     </div>
                 </div>
                 <div class="overflow-hidden rounded-lg bg-white shadow">
-                    <img src="/images/waffle.webp" alt="" class="h-48 w-full object-cover" />
+                    <img src="/images/waffle.webp" alt="" class="h-48 w-full object-cover" >
 
                     <div class="p-4">
                         <p class="text-gray-800">
@@ -170,14 +170,14 @@
                     </div>
                 </div>
                 <div class="overflow-hidden rounded-lg bg-white shadow">
-                    <img src="/images/borek.webp" alt="" class="h-48 w-full object-cover" />
+                    <img src="/images/borek.webp" alt="" class="h-48 w-full object-cover" >
 
                     <div class="p-4">
                         <p class="text-gray-800">Ýarymfabrikat etli, ýeralmaly börek.</p>
                     </div>
                 </div>
                 <div class="overflow-hidden rounded-lg bg-white shadow">
-                    <img src="/images/adalat-salami.webp" alt="" class="h-48 w-full object-cover" />
+                    <img src="/images/adalat-salami.webp" alt="" class="h-48 w-full object-cover" >
 
                     <div class="p-4">
                         <p class="text-gray-800">

@@ -17,7 +17,7 @@
                         src="/images/logo-white.svg"
                         alt="Senagat StartUp Logo"
                         class="mr-3 h-[100px] w-[100px]"
-                    />
+                    >
                 </div>
 
                 <!-- Правая часть: контакты -->

@@ -152,7 +152,7 @@ onMounted(() => {
 
 <template>
     <div>
-        <img v-if="!isLoading" src="/images/main.webp" class="h-[500px] w-full object-cover" />
+        <img v-if="!isLoading" src="/images/main.webp" class="h-[500px] w-full object-cover" >
         <USkeleton v-if="isLoading" class="h-[500px] w-full rounded" />
         <section class="mb-8">
             <div v-if="isLoading" class="my-[40px] flex flex-col gap-6 md:flex-row">
@@ -322,7 +322,7 @@ onMounted(() => {
                                 src="/images/taslamalar.webp"
                                 alt="Taslamalar"
                                 class="clip-diagonal-left h-full w-full object-cover"
-                            />
+                            >
                         </div>
                     </div>
                 </NuxtLink>
@@ -448,7 +448,7 @@ onMounted(() => {
                                 src="/images/hunar-yokarlandyrmak.webp"
                                 alt="Taslamalar"
                                 class="clip-diagonal-left h-full w-full object-cover"
-                            />
+                            >
                         </div>
                     </div>
                 </NuxtLink>
@@ -546,7 +546,7 @@ onMounted(() => {
                         src="/images/goal1.webp"
                         alt="Zeһinli ýaşylar"
                         class="h-[240px] w-full object-cover"
-                    />
+                    >
                     <div class="py-6">
                         <h3 class="mb-3 text-xl font-semibold text-gray-900">
                             Zehinli ýaşlarymyzyň oýlap-tapyşlaryny goldamak.
@@ -569,7 +569,7 @@ onMounted(() => {
                         src="/images/goal2.webp"
                         alt="Täze nesliň döredijilik we innowasiýa"
                         class="h-[240px] w-full object-cover"
-                    />
+                    >
                     <div class="py-6">
                         <h3 class="mb-3 text-xl font-semibold text-gray-900">
                             Täze nesliň döredijilik we innowasiýa mümkinçiliklerini ösdürmek.
@@ -592,7 +592,7 @@ onMounted(() => {
                         src="/images/goal3.webp"
                         alt="Ýurdumyzyň senagat we ykdysady kuwwatyny artdyrmak"
                         class="h-[240px] w-full object-cover"
-                    />
+                    >
                     <div class="py-6">
                         <h3 class="mb-3 text-xl font-semibold text-gray-900">
                             Ýurdumyzyň senagat we ykdysady kuwwatyny artdyrmak.
@@ -634,7 +634,7 @@ onMounted(() => {
                             :src="partner.src"
                             :alt="partner.alt"
                             class="max-h-16 object-contain filter transition duration-300 hover:filter-none"
-                        />
+                        >
                     </div>
                 </div>
             </div>

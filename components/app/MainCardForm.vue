@@ -36,7 +36,7 @@ function submit() {
                         v-model="form.firstName"
                         type="text"
                         class="h-10 w-full rounded-md bg-gray-200 px-4 placeholder-gray-500 focus:ring-2 focus:ring-green-600 focus:outline-none"
-                    />
+                    >
                 </div>
                 <!-- Familiýanyňyz -->
                 <div>
@@ -48,7 +48,7 @@ function submit() {
                         v-model="form.lastName"
                         type="text"
                         class="h-10 w-full rounded-md bg-gray-200 px-4 placeholder-gray-500 focus:ring-2 focus:ring-green-600 focus:outline-none"
-                    />
+                    >
                 </div>
                 <!-- Telefon Belginiňiz -->
                 <div>
@@ -60,7 +60,7 @@ function submit() {
                         v-model="form.phone"
                         type="text"
                         class="h-10 w-full rounded-md bg-gray-200 px-4 placeholder-gray-500 focus:ring-2 focus:ring-green-600 focus:outline-none"
-                    />
+                    >
                 </div>
                 <!-- E-mail poçtaňyz -->
                 <div>
@@ -72,7 +72,7 @@ function submit() {
                         v-model="form.email"
                         type="email"
                         class="h-10 w-full rounded-md bg-gray-200 px-4 placeholder-gray-500 focus:ring-2 focus:ring-green-600 focus:outline-none"
-                    />
+                    >
                 </div>
             </div>
 
@@ -99,7 +99,7 @@ function submit() {
                         type="file"
                         class="block w-full rounded-md bg-gray-200 px-4 py-2 text-sm text-gray-500 focus:ring-2 focus:ring-green-600 focus:outline-none"
                         @change="onFileChange"
-                    />
+                    >
                 </div>
                 <button
                     type="submit"

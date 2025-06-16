@@ -130,7 +130,7 @@ function remove(id: number) {
             >
                 <!-- Изображение -->
                 <div class="col-span-12 sm:col-span-3 lg:col-span-2">
-                    <img :src="course.image" alt="" class="h-24 w-full rounded-md object-cover" />
+                    <img :src="course.image" alt="" class="h-24 w-full rounded-md object-cover" >
                 </div>
 
                 <!-- Название + описание -->

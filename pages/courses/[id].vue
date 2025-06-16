@@ -20,7 +20,7 @@
                             src="/images/course1.webp"
                             alt="Taslama lead"
                             class="w-full rounded-xl object-cover"
-                        />
+                        >
 
                         <!-- Заголовок + мета -->
                         <div>
@@ -67,7 +67,7 @@
                                 src="/images/course3.webp"
                                 alt="Taslama detail"
                                 class="mt-6 mb-6 w-full rounded-xl object-cover"
-                            />
+                            >
                             <p>
                                 Programma üpjünçiliginiň arhitekturasy we dizaýny diňe bir häzirki
                                 zerurlyklara däl, eýsem, geljekde giňeldilip bilinmegini hem göz

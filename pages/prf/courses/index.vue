@@ -2,7 +2,7 @@
 const courses = ref([
     {
         id: 1,
-        image: "/startup/images/course1.webp",
+        image: "/images/course1.webp",
         title: "Programma üpjünçiligini dizaýn etmek we arhitekturalaşdyrmak",
         excerpt:
             "Bu ýöriteleşme, çeýe we ölçeýärlikli programmalary döretmek üçin iň gowy tejribeleri,…",
@@ -13,7 +13,7 @@ const courses = ref([
     },
     {
         id: 2,
-        image: "/startup/images/course2.webp",
+        image: "/images/course2.webp",
         title: "Taslamany dolandyrmagyň esaslary",
         excerpt:
             "Bu kurs taslamalary netijeli meýilleşdirmek, guramak we dolandyrmak boýunça başlangyç bilimleri berýär.…",
@@ -24,7 +24,7 @@ const courses = ref([
     },
     {
         id: 3,
-        image: "/startup/images/course3.webp",
+        image: "/images/course3.webp",
         title: '"Iňlis dili öwrenmek: Başlangyç grammatika"',
         excerpt:
             "Bu ýöriteleşme, iňlis diliniň başlangyç grammatikasyny öwrenmek isleýänler üçin niýetlenendir.…",
@@ -35,7 +35,7 @@ const courses = ref([
     },
     {
         id: 4,
-        image: "/startup/images/course4.webp",
+        image: "/images/course4.webp",
         title: "Java programmirlleme we programma inženerçiligiň esaslary",
         excerpt:
             "Esasy prinsiplerini öwredip, başlangyçlara we orta derejeli programmistlere kod ýazmak,…",
@@ -46,7 +46,7 @@ const courses = ref([
     },
     {
         id: 5,
-        image: "/startup/images/course1.webp",
+        image: "/images/course1.webp",
         title: "Programma üpjünçiligini dizaýn etmek we arhitekturalaşdyrmak",
         excerpt:
             "Bu ýöriteleşme, çeýe we ölçeýärlikli programmalary döretmek üçin iň gowy tejribeleri,…",
@@ -57,7 +57,7 @@ const courses = ref([
     },
     {
         id: 6,
-        image: "/startup/images/course2.webp",
+        image: "/images/course2.webp",
         title: "Taslamany dolandyrmagyň esaslary",
         excerpt:
             "Bu kurs taslamalary netijeli meýilleşdirmek, guramak we dolandyrmak boýunça başlangyç bilimleri berýär.…",
@@ -68,7 +68,7 @@ const courses = ref([
     },
     {
         id: 7,
-        image: "/startup/images/course3.webp",
+        image: "/images/course3.webp",
         title: '"Iňlis dili öwrenmek: Başlangyç grammatika"',
         excerpt:
             "Bu ýöriteleşme, iňlis diliniň başlangyç grammatikasyny öwrenmek isleýänler üçin niýetlenendir.…",
@@ -79,7 +79,7 @@ const courses = ref([
     },
     {
         id: 8,
-        image: "/startup/images/course4.webp",
+        image: "/images/course4.webp",
         title: "Java programmirlleme we programma inženerçiligiň esaslary",
         excerpt:
             "Esasy prinsiplerini öwredip, başlangyçlara we orta derejeli programmistlere kod ýazmak,…",

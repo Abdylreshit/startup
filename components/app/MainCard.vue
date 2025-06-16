@@ -43,7 +43,7 @@ defineProps<{
         :to="link || '#'"
         class="flex h-[480px] flex-col overflow-hidden rounded-xl bg-white shadow-md"
     >
-        <img :src="`/${image}`" alt="" class="h-[192px] w-full object-cover" />
+        <img :src="`${image}`" alt="" class="h-[192px] w-full object-cover" />
 
         <div class="flex flex-1 flex-col justify-between px-4 py-3">
             <div class="flex-1">

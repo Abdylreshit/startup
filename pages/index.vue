@@ -152,7 +152,7 @@ onMounted(() => {
 
 <template>
     <div>
-        <img v-if="!isLoading" src="/images/main.webp" class="h-[500px] w-full object-cover" >
+        <img v-if="!isLoading" src="/images/main1.webp" class="h-[500px] w-full object-cover" >
         <USkeleton v-if="isLoading" class="h-[500px] w-full rounded" />
         <section class="mb-8">
             <div v-if="isLoading" class="my-[40px] flex flex-col gap-6 md:flex-row">

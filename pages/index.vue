@@ -173,25 +173,25 @@ onMounted(() => {
                 </div>
             </div>
 
-            <div v-else class="my-[40px] flex flex-col gap-6 md:flex-row">
-                <!-- Левая колонка (заголовок) -->
-                <div class="md:w-1/3">
-                    <p class="text-lg font-semibold text-gray-900">
-                        Türkmenistanyň Prezidenti Serdar Berdimuhamedow:
-                    </p>
-                </div>
+<!--            <div v-else class="my-[40px] flex flex-col gap-6 md:flex-row">-->
+<!--                &lt;!&ndash; Левая колонка (заголовок) &ndash;&gt;-->
+<!--                <div class="md:w-1/3">-->
+<!--                    <p class="text-lg font-semibold text-gray-900">-->
+<!--                        Türkmenistanyň Prezidenti Serdar Berdimuhamedow:-->
+<!--                    </p>-->
+<!--                </div>-->
 
-                <!-- Правая колонка (цитата) -->
-                <div class="md:w-2/3">
-                    <p class="text-base leading-relaxed text-gray-700">
-                        “Sanly ulgamy we tehnologiýalary ornaşdyrmak durnukly ykdysady ösüş we
-                        döwleti dolandyrmagyň netijeliliginiň ýokarlanmagy üçin ileri tutulýan ugur
-                        bolup durýar. Geljekde sanly tehnologiýalary dolandyryp biljek we dürli
-                        pudaklarda innowasion prosesleri ýöretjek bilimli işgärleri taýýarlamagyň
-                        wajyplygyna aýratyn üns çekmek gerek.”
-                    </p>
-                </div>
-            </div>
+<!--                &lt;!&ndash; Правая колонка (цитата) &ndash;&gt;-->
+<!--                <div class="md:w-2/3">-->
+<!--                    <p class="text-base leading-relaxed text-gray-700">-->
+<!--                        “Sanly ulgamy we tehnologiýalary ornaşdyrmak durnukly ykdysady ösüş we-->
+<!--                        döwleti dolandyrmagyň netijeliliginiň ýokarlanmagy üçin ileri tutulýan ugur-->
+<!--                        bolup durýar. Geljekde sanly tehnologiýalary dolandyryp biljek we dürli-->
+<!--                        pudaklarda innowasion prosesleri ýöretjek bilimli işgärleri taýýarlamagyň-->
+<!--                        wajyplygyna aýratyn üns çekmek gerek.”-->
+<!--                    </p>-->
+<!--                </div>-->
+<!--            </div>-->
 
             <div class="w-full border-t-[2px] border-solid border-white" />
         </section>
